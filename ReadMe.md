@@ -16,6 +16,10 @@ Request for Collaboration
 
 Whilst Sage is kick-starting the Trust Fabric initiative, the aim is to work in a collaborative and open way with other organisations who could benefit from the trust established by such a technology - particularly as this is an industry-wide problem which requires an open, industry-wide solution.  With this in mind, all of the code developed within Sage in support of the Trust Fabric will be published here in this Github repository as open-source software.  We welcome collaboration opportunities or re-use of our work within other organisations.
 
+Overview
+--------
+Trust Fabric is a foundation service that facilitates electronic transactions between parties in a secure, auditable, and open manner. Examples of such transactions include tax submissions, purchase orders, sales invoices, payment instructions and payslips. 
+
 Fundamental Purpose
 -------------------
 
