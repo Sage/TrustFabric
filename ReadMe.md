@@ -4,7 +4,7 @@ Trust Fabric
 Definition
 ----------
 
-he Trust Fabric is a technology to facilitate trust within a business community. The service maps relationships with inferred trust to a cryptographically secure network of trust that allows businesses to connect, transact, process and automate securely. By leveraging existing network insights, the Trust Fabric acts as a trust facilitator rather than a trust authority, and makes trust programmable.
+The Trust Fabric is a technology to facilitate trust within a business community. The service maps relationships with inferred trust to a cryptographically secure network of trust that allows businesses to connect, transact, process and automate securely. By leveraging existing network insights, the Trust Fabric acts as a trust facilitator rather than a trust authority, and makes trust programmable.
 
 The Trust Fabric is a foundation service. It enables electronic transaction exchange between parties in a secure, auditable, and open manner, whilst maintaining confidentiality between parties at all times. Examples of such transactions include tax submissions, purchase orders, sales invoices, payment instructions and payslips. The service is only concerned with trust facilitation and auditability; it is not concerned with the transport of messages. 
 
